@@ -26,7 +26,7 @@ namespace RightJoin
                     }
                 }
             }
-            Console.WriteLine("Hello World!");
+      
         }
     }
 }
